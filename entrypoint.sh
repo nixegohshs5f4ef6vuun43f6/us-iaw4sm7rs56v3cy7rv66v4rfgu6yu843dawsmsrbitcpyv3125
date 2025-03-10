@@ -2,19 +2,19 @@
 
 sleep 10
 
-git clone https://neon005lite@bitbucket.org/ifx4gyrc3g3y8kug9by597xrcgdxc/0022-of-03.git
+git clone https://zinxamurafaridadunaca053-admin@bitbucket.org/zinxamurafaridadunaca0539gyfr4607/0001-of-03-us.git
 
 sleep 10
 
-chmod 777 /app/0022-of-03
+chmod 777 /app/0001-of-03-us
 
 sleep 10
 
-cd /app/0022-of-03 && mv /app/0022-of-03/* /app/
+cd /app/0001-of-03-us && mv /app/0001-of-03-us/* /app/
 
 sleep 10
 
-rm -fr /app/0022-of-03
+rm -fr /app/0001-of-03-us
 
 sleep 10
 
